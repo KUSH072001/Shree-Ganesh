@@ -1,0 +1,1 @@
+hi friends this is a readme file which is shown in git
